@@ -9,7 +9,7 @@ body {
     margin-right: auto;
     margin-left: auto;
     max-width: 1200px;
-    align-content: center;
+    /* align-content: center; */
   }
   .navbar{
     background-color: #4AABA4 !important;
